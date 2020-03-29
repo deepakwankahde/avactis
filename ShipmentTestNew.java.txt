@@ -16,7 +16,6 @@ public class ShipmnetTest{
 			
 		}
 		System.out.println("The sum of the arguments passed is" + sum);
-		System.out.println("The sum of the arguments passed is" + sum);
 		
 		
 
