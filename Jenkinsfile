@@ -5,7 +5,7 @@ pipeline {
         stage('Unit Test') {
             steps {
                 echo 'Using TestNG'
-                echo 'Adharcard Number is $ADHARCARDNUMBER'
+                echo "Adharcard Number is $ADHARCARDNUMBER"
             }
         }
         stage('Static Analysys') {
